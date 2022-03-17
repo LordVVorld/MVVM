@@ -1,4 +1,4 @@
-package com.example.retrofitforecaster
+package com.example.mvvm
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

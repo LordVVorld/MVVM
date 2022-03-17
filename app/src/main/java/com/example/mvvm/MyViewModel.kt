@@ -1,4 +1,4 @@
-package com.example.retrofitforecaster
+package com.example.mvvm
 
 import androidx.lifecycle.ViewModel
 import retrofit2.Call
